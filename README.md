@@ -6,7 +6,7 @@ Curso de JavaScript para Web: Crie páginas dinâmicas
 | -------------  | --- |
 | :sparkles: Nome        | aluramid
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | 
+| :rocket: URL         | https://aluramidi-nu.vercel.app/
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
